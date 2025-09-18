@@ -4,6 +4,10 @@ I`m Alan Morgado a software engineer with expertise in building web and cross-pl
 
 My current goal is to create innovative software that impacts users lives, this combining modern GUI with the best coding practices and algorithms.
 
+Visit my [portfolio](https://alanmorgado.vercel.app/) 🌐
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanmorgado/)
 
 ### Programming Languages
 
